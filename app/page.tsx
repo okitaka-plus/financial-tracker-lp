@@ -80,7 +80,7 @@ export default function Home() {
             </div>
             <div className="relative aspect-video overflow-hidden rounded-xl">
               <Image
-                src="/placeholder.svg?height=720&width=1280"
+                src="/finance-tracker.png?height=720&width=1280"
                 alt="Financial Tracker アプリのスクリーンショット"
                 fill
                 className="object-cover"
